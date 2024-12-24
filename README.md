@@ -1,7 +1,7 @@
-## Group members
-Anousha-20SW030 |
-Junaid Ali-20sw066 |
-Sarosh-20SW128 
+## Made By
+
+Junaid Ali-20sw066 
+
 
 ## Title: Urban Mobility
 
